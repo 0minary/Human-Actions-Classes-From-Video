@@ -205,7 +205,6 @@ Structure recommandée :
 - [ ] Documentation complète
 
 ---
-
 ## Objectifs du projet
 
 Le but est de pouvoir expliquer ce qu'est ce sujet :
